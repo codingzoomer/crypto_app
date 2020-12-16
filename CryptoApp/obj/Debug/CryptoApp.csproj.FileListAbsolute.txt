@@ -1,0 +1,13 @@
+E:\repos\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe.config
+E:\repos\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe
+E:\repos\CryptoApp\CryptoApp\bin\Debug\CryptoApp.pdb
+E:\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csprojAssemblyReference.cache
+E:\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.Form1.resources
+E:\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.Properties.Resources.resources
+E:\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+E:\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
+E:\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.exe
+E:\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.pdb
+E:\repos\CryptoApp\CryptoApp\bin\Debug\Newtonsoft.Json.dll
+E:\repos\CryptoApp\CryptoApp\bin\Debug\Newtonsoft.Json.xml
+E:\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.CopyComplete
